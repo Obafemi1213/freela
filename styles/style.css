@@ -116,6 +116,7 @@
     #freelas{
         margin: auto;
         border: 2px solid rgb(0, 255, 34);
+        border-radius: 15px;
         height: 35vh;
         width: 95vw;
         background-color: #FFFFFF;
@@ -128,6 +129,8 @@
      .lista > a{
         text-decoration: none;
         list-style-type: none;
+        padding: 20px;
+        margin-left: 30px;
     }
 
 
