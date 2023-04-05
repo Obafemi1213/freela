@@ -34,6 +34,8 @@
         padding: 10px; 
     }
 
+    /*Campos de identificação : nome, cidade, n de freelas, avaliações*/
+
     .identifi{
         position: absolute;
         right: 200px;
