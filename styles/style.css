@@ -38,7 +38,7 @@
 
     .identifi{
         position: absolute;
-        right: 200px;
+        right: 180px;
         text-align: center;
         padding: 10px;
         margin: 15px 0px;
@@ -48,7 +48,7 @@
 
     .saldo{
         position: absolute;
-        right: 50px;
+        right: 40px;
         text-align: center;
         padding: 10px;
         margin: 15px 0px;
