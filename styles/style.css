@@ -125,13 +125,20 @@
      ul {
         display:block ;
     }
-
-
-
-
      .lista > a{
         text-decoration: none;
         list-style-type: none;
+    }
+
+
+
+
+
+
+    footer > p{
+        margin: 10px;
+        text-align: center;
+        font-weight: bolder;
     }
 
 
