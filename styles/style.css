@@ -99,6 +99,7 @@
         right: 20px;
         top: 100px;
         background-image: url(../imagens/fre1.jpg);
+        background-position: center bottom;
         background-size: cover;
         border-radius: 40%;
         height: 200px;
